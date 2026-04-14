@@ -1,6 +1,8 @@
 # Toggle the notch on MacBooks
 
-Toggle the MacBook notch on or off on macOS Tahoe 26, using AppleScript to automate the process described [here](https://apple.stackexchange.com/questions/432284/make-macbook-pro-as-if-there-is-no-notch/472341#472341)
+Toggle the MacBook notch on or off, using AppleScript to automate the process described [here](https://apple.stackexchange.com/questions/432284/make-macbook-pro-as-if-there-is-no-notch/472341#472341)
+
+Requires macOS Tahoe 26
 
 ~~~applescript
 tell application "System Events"
